@@ -1,0 +1,8 @@
+/venv
+/.idea
+/out
+/__pycache__
+/DataLoading/*.log
+__pycache__
+/Model/__pycache__
+/*.iml
